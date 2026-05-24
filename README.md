@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Bnokyo 👋</h1>
 
-<!--
-**bn0ky0/bn0ky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Python & Web Developer • Creator of Zev AI 🚀
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Python Developer  
+- 🌐 Web Developer  
+- 🤖 Building AI-powered projects  
+- 🚀 Creator of Zev AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+```python
+Python • HTML • CSS • JavaScript
+```
+
+## 📌 Current Goal
+Building modern websites & AI experiences.
