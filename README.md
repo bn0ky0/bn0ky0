@@ -6,6 +6,7 @@
 
   <p><code>reverse engineering • python • random side quests</code></p>
   <p>i poke software until it explains itself ¯\_(ツ)_/¯</p>
+  <sub>currently running on caffeine.exe (not guaranteed to work)</sub>
 </div>
 
 ---
@@ -25,17 +26,17 @@ Developer interested in understanding how software works behind the scenes. Usua
 
 ## `> activity.log`
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/bn0ky0">
     <img
-      src="https://ghchart.xqsit94.in/dark:a78bfa/bn0ky0"
+      src="https://ghchart.rshah.org/a78bfa/bn0ky0"
       alt="bnokyo GitHub contribution calendar"
       width="100%"
     />
   </a>
   <br />
   <sub>little green squares, questionable amounts of screen time</sub>
-</p>
+</div>
 
 ---
 
