@@ -78,5 +78,5 @@ Developer interested in understanding how software works behind the scenes. Usua
 <div align="center">
   <sub>made with curiosity, questionable decisions, and a keyboard</sub>
   <br />
-  <code>exit(0); // cya nerds :]</code>
+  <code>exit(0); // cya :]</code>
 </div>
