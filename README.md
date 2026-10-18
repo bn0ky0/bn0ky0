@@ -1,28 +1,39 @@
 
 <div align="center">
-  <img src="bnokyo.jpg" alt="bnokyo's avatar" width="150" />
+  <img src="bnokyo.jpg" alt="bnokyo's avatar" width="130" />
 
-  # Hey, I'm bnokyo 👋
+  <h1>bnokyo.exe</h1>
 
-  *Developer • Reverse Engineering • Python*
+  <p><code>reverse engineering things I probably shouldn't poke</code></p>
+  <p>¯\_(ツ)_/¯ &nbsp; powered by Python and questionable ideas</p>
 </div>
 
-## About Me :P
+---
 
-I'm a developer who enjoys exploring how software works under the hood and figuring out how things are built >_<
+## `> whoami`
 
-- 🛠️ Interested in reverse engineering and software internals.
-- 🐍 Python is one of my favorite languages for building things.
-- 💻 Always experimenting, learning, and writing code.
-- 🔒 Most of my actual projects are private for now, lol :]
+Just a developer who likes figuring out what makes software tick.
 
-## 📈 GitHub Contributions
+- `>>` Taking programs apart to understand how they work.
+- `>>` Python is my go-to for scripts, experiments, and random projects.
+- `>>` I build stuff, break it, fix it, and somehow repeat the process.
+- `>>` Most of my repositories are private. The secret lab remains classified. :]
+
+<sub>currently running on caffeine.exe (not guaranteed to work)</sub>
+
+## `> activity.log`
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/bnokyo" alt="bnokyo's GitHub contribution graph" width="100%" />
+  <a href="https://github.com/bn0ky0">
+    <img src="https://ghchart.rshah.org/a78bfa/bn0ky0" alt="bnokyo's GitHub contribution calendar" width="100%" />
+  </a>
+  <br />
+  <a href="https://github.com/bn0ky0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bn0ky0&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=67e8f9&area=true&hide_border=true&radius=10&custom_title=code%20gremlin%20activity" alt="bnokyo's GitHub activity graph" width="100%" />
+  </a>
 </div>
 
-## 💻 Tech Stack
+## `> tools.exe`
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
@@ -46,3 +57,9 @@ I'm a developer who enjoys exploring how software works under the hood and figur
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+
+<div align="center">
+  <sub>made with code, curiosity, and probably a few bugs</sub>
+  <br />
+  <code>exit(0); // see ya :]</code>
+</div>
