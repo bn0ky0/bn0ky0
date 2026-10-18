@@ -16,8 +16,8 @@ Developer interested in understanding how software works behind the scenes. Usua
 
 - `[*]` Reverse engineering & software internals
 - `[*]` Python scripts, experiments, and random projects
-- `[*]` Build it. Break it. Debug it. Repeat.
-- `[*]` Repositories are private. The secret lab stays secret. :]
+- `[*]` I build stuff, break it, fix it, and somehow repeat the process.
+- `[*]` Most of my actual projects are private for now, lol :]
 
 <sub>status: probably debugging something that worked five minutes ago</sub>
 
