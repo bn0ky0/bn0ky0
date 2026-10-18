@@ -36,7 +36,7 @@ Developer interested in understanding how software works behind the scenes. Usua
     />
   </a>
   <br />
-  <sub>little green squares, questionable amounts of screen time</sub>
+  <sub>tiny squares, questionable amounts of screen time >.< </sub>
 </div>
 
 ---
