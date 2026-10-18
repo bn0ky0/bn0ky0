@@ -19,6 +19,7 @@ Developer interested in understanding how software works behind the scenes. Usua
 - `[*]` Python scripts, experiments, and random projects
 - `[*]` I build stuff, break it, fix it, and somehow repeat the process.
 - `[*]` Most of my actual projects are private for now, lol :]
+- `[*]` And i love minecraft >_<
 
 <sub>status: probably debugging something that worked five minutes ago</sub>
 
