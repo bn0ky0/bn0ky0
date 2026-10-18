@@ -83,3 +83,7 @@ Developer interested in understanding how software works behind the scenes. Usua
   <br />
   <code>exit(0); // cya :]</code>
 </div>
+
+<div align="center">
+  <img src="loop.gif" alt="loop animation" width="500" />
+</div>
