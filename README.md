@@ -85,5 +85,5 @@ Developer interested in understanding how software works behind the scenes. Usua
 </div>
 
 <div align="center">
-  <img src="loop.gif" alt="loop animation" width="500" />
+  <img src="loop.gif" alt="loop animation" width="850" />
 </div>
