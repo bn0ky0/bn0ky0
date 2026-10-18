@@ -1,13 +1,26 @@
 
-# 👋 Hey, I'm bnokyo
+<div align="center">
+  <img src="bnokyo.jpg" alt="bnokyo's avatar" width="150" />
 
-![bnokyo](bnokyo.jpg)
+  # Hey, I'm bnokyo 👋
 
-## 💻 About Me
+  *Developer • Reverse Engineering • Python*
+</div>
 
--  I can reverse engineer, and I'm really good with Python.
--  I love coding ;P
--  All of my repos are private lol :]
+## About Me :P
+
+I'm a developer who enjoys exploring how software works under the hood and figuring out how things are built >_<
+
+- 🛠️ Interested in reverse engineering and software internals.
+- 🐍 Python is one of my favorite languages for building things.
+- 💻 Always experimenting, learning, and writing code.
+- 🔒 Most of my actual projects are private for now, lol :]
+
+## 📈 GitHub Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/bnokyo" alt="bnokyo's GitHub contribution graph" width="100%" />
+</div>
 
 ## 💻 Tech Stack
 
