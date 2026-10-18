@@ -24,13 +24,14 @@ Developer interested in understanding how software works behind the scenes. Usua
 
 ---
 
+
 ## `> activity.log`
 
 <div align="center">
   <a href="https://github.com/bn0ky0">
     <img
-      src="https://ghchart.rshah.org/a78bfa/bn0ky0"
-      alt="bnokyo GitHub contribution calendar"
+      src="https://contribkit.app/user/bn0ky0.svg?palette=dracula&shape=rounded&background=%230d1117"
+      alt="bnokyo's GitHub contributions"
       width="100%"
     />
   </a>
